@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/mouad/Documents/EK/PAGES/Cpp/LookBackOption/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/python3.8 -isystem /home/mouad/.local/lib/python3.8/site-packages/numpy/core/include  -std=c++11  -g -o CMakeFiles/LookBackOption.dir/main.cpp.o -c /mnt/c/Users/mouad/Documents/EK/PAGES/Cpp/LookBackOption/main.cpp",
+  "file": "/mnt/c/Users/mouad/Documents/EK/PAGES/Cpp/LookBackOption/main.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11  -g CMakeFiles/LookBackOption.dir/main.cpp.o -o LookBackOption  -larmadillo /usr/lib/x86_64-linux-gnu/libpython3.8.so 
